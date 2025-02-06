@@ -60,14 +60,3 @@ This project is an AI assistant for a website that consults clients on various a
 - Fix any identified issues and optimize processes.
 - Provide ongoing technical support and updates as per additional agreements.
 
-## Timeline, Cost, and Conditions
-
-- **Timeline:** 21 calendar days (preliminary estimate).
-- **Cost:** 300 euros (preliminary estimate).
-- **Conditions:** The final cost will be determined after agreeing on a detailed TS. The work can be contracted on a self-employed basis.
-
-## How to Run the Project
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/ai-assistant-vr-arena.git
